@@ -11,8 +11,8 @@ The goal of this project is to identify sales trends, top-performing brands, reg
 
 The workbook contains three main sheets:
 
-'Data' - Raw sales transaction data including retailer, date, region, state, city, brand, units sold, total sales, operating profit, and operating margin
-'Analyze' - Summary analysis and pivot-style aggregations by brand, region, retailer, quarter, and city
+'Data' - Raw sales transaction data including retailer, date, region, state, city, brand, units sold, total sales, operating profit, and operating margin  
+'Analyze' - Summary analysis and pivot-style aggregations by brand, region, retailer, quarter, and city  
 'Dashboard' - Visual dashboard showing sales trends, brand performance, regional mix, operating margin, and top cities
 
 ## Dataset Fields
@@ -30,7 +30,7 @@ The raw dataset includes the following columns:
 - Units Sold
 - Total Sales
 - Operating Profit
-- Operating Margin
+- Operating Margin  
 
 <a href="https://github.com/murukotiramateja/Coca-Cola_Business_Analysis/blob/main/beverages%20data.xlsx">Dataset</a>
 
@@ -65,7 +65,7 @@ The dashboard includes visualizations for:
 - Sales by beverage brand
 - Sales by region
 - Retailer operating margin comparison
-- Top 10 cities by sales
+- Top 10 cities by sales  
 <a href="https://github.com/murukotiramateja/Coca-Cola_Business_Analysis/blob/main/dashboard_img.png">View Dashboard </a>
 
 ## Business Interpretation
